@@ -22,3 +22,7 @@ The data file "hw2_data.txt" must be placed in the same folder as the code file.
 # Code
 https://github.com/MichelleKu-TMU/HW2_hash_practice/blob/509eec211682886ce3b4b9020540c88f7e94335c/HW2_hash.ipynb
 ![image](https://github.com/user-attachments/assets/7f514db2-0c5c-4d18-8dbc-44ee8a640c4b)
+
+# Result
+![image](https://github.com/user-attachments/assets/4ab6b91a-f00f-4c19-aa7a-efc7957055e2)
+
