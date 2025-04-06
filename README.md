@@ -19,4 +19,4 @@
 The data file "hw2_data.txt" must be placed in the same folder as the code file.
 
 # Code
-HW2_hash.ipynb
+[HW2_hash.ipynb](url)
