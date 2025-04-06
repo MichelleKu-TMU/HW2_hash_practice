@@ -1,5 +1,6 @@
 # HW2_hash_practice
 高齡三 古珉瑄 B409111022 113-2資料結構與演算法 HW2_hash_practice
+2025.04.06
 # Homework Instructions 
 附檔資料「hw2_data.txt」是一份近千行的字串資料。每一行只有一個英文字，且文字重複率很高。請寫一隻程式讀進這個檔案，逐行讀進這些英文字，並統計出以下兩點：
  
@@ -20,3 +21,4 @@ The data file "hw2_data.txt" must be placed in the same folder as the code file.
 
 # Code
 https://github.com/MichelleKu-TMU/HW2_hash_practice/blob/509eec211682886ce3b4b9020540c88f7e94335c/HW2_hash.ipynb
+[HW2_hash.ipynb]
